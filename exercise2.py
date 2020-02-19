@@ -1,22 +1,9 @@
-def add():
-    a,b=10,12
-    print(a+b)
-add()
+def add(x,y):
+    sum=x+y
+    print (sum)
 
-def myName():
-    myName='brian'
-    print(myName)
-myName()
+sum=add(10,12)
 
-
-def mypizzatoping():
-    mypizzatoping='chilli','red berries','carrots','bitroots','orangeflesh','kiwi fruit'
-    print(mypizzatoping)
-
-mypizzatoping()
-
-mypizzatoping()
-mypizzatoping()
  
 
 
