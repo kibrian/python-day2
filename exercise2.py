@@ -1,18 +1,23 @@
-a=10
-b=6
-c=31
-sum=a+b+c
-def myprinter(myvar):
-    print(myvar)
+def add():
+    a,b=10,12
+    print(a+b)
+add()
 
-myprinter('brian')
+def myName():
+    myName='brian'
+    print(myName)
+myName()
 
-def add(x,y):
-    sum=x+y
-    print(sum)
 
-add(2,4)
-a=10
-b=12
-promt='a+b'
-def add(x,y)
+def mypizzatoping():
+    mypizzatoping='chilli','red berries','carrots','bitroots','orangeflesh','kiwi fruit'
+    print(mypizzatoping)
+
+mypizzatoping()
+
+mypizzatoping()
+mypizzatoping()
+ 
+
+
+
